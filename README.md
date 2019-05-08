@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Elton47/KOVALENT.svg?branch=master)](https://travis-ci.org/Elton47/KOVALENT)
+[![Known Vulnerabilities](https://snyk.io/test/github/Elton47/KOVALENT/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Elton47/KOVALENT?targetFile=package.json)
+
 # KOVALENT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
